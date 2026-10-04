@@ -1,0 +1,26 @@
+{
+  "name": "edition-01",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^19.0.0-rc-66855b96-20250101",
+    "react-dom": "^19.0.0-rc-66855b96-20250101",
+    "next": "^15.0.3",
+    "lucide-react": "^1.16.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.42",
+    "@types/react-dom": "^18.2.17",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "postcss": "^8.4.32"
+  }
+}
